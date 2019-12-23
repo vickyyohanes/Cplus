@@ -1,0 +1,10 @@
+<html>
+<head>
+<title> Contoh Push Github </title>
+<body>
+	<p> Ini adalah contoh file untuk di upload ke github </p>
+
+</body>
+</head>
+
+</html>
